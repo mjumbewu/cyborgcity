@@ -1,6 +1,6 @@
 # Reading List
 
-The following topics should all be considered in relation to technological changes that occurred around the years 2000-2030.
+The following topics should all be considered in relation to technological changes that occurred around the years 2000-2030. This list is partial and evolving. These topics were chosen based on the idea that in several decades time, these will be some of the defining issues from this period.
 
 ## Community Organizing and Local Politics
 
