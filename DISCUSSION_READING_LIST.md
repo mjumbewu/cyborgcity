@@ -9,7 +9,7 @@ The following topics should all be considered in relation to technological chang
 It is important to consider how we organize power and legitimacy in our physical communities.
 
 * [The smartest cities rely on citizen cunning and unglamorous technology](https://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology)
-* [Juliana Rotich: Meet BRCK, Internet access built for Africa](https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa)
+* [Loomio: A Short History and Introduction](http://blog.loomio.org/2012/03/20/a-short-history-and-introduction/)
 * [Supporting Participatory Budgeting with Shareabouts](http://blog.openplans.org/2014/05/supporting-participatory-budgeting-with-shareabouts/)
 
 ## Privacy, Security, and Personal Data
@@ -29,6 +29,7 @@ Print journalism is struggling, and it is technically easier than ever for anyon
 When taking into account historically unequal distributions of power and resources in society in general, it is sad but not surprising that the major voices in tech during this period are overwhelmingly White and male, particularly throughout the Western world. Is there evidence that civic technology looks any different, given that it has such equitable aspirations? What does the landscape look like around the world?
 
 * [Everything Working Against Tech Diversity in Two Headlines](https://web.archive.org/web/20160209132943/http://danilocampos.com/2015/06/everything-working-against-tech-diversity-in-two-headlines/)
+* [Juliana Rotich: Meet BRCK, Internet access built for Africa](https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa)
 
 # New to Civic Tech?
 
