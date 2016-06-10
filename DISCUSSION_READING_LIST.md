@@ -5,6 +5,7 @@ The following topics should all be considered in relation to technological chang
 ## Community Organizing and Local Politics
 
 * [The smartest cities rely on citizen cunning and unglamorous technology](https://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology)
+* [Juliana Rotich: Meet BRCK, Internet access built for Africa](https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa)
 
 ## Privacy, Security, and Personal Data
 
