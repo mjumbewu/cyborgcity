@@ -6,7 +6,7 @@ The following topics should all be considered in relation to technological chang
 
 ## Community Organizing and Local Politics
 
-It is important to consider how we organize power and legitimacy in our physical communities.
+It is important to consider how we organize power and legitimacy in our physical communities. Candidates post their political platforms on GitHub and other collaborative applications, representatives are criwdsourcing ideas for spending budgets, and experiments that grew out of the Occupy movement such as liquid and deliberative democracy are being actively discussed. Do these experiments matter, or are they all more of the same?
 
 * [The smartest cities rely on citizen cunning and unglamorous technology](https://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology)
 * [Loomio: A Short History and Introduction](http://blog.loomio.org/2012/03/20/a-short-history-and-introduction/)
