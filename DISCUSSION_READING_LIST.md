@@ -2,6 +2,8 @@
 
 The following topics should all be considered in relation to technological changes that occurred around the years 2000-2030. This list is partial and evolving. These topics were chosen based on the idea that in several decades time, these will be some of the defining issues from this period.
 
+*pull requests appreciated*
+
 ## Community Organizing and Local Politics
 
 It is important to consider how we organize power and legitimacy in our physical communities.
@@ -22,7 +24,13 @@ Print journalism is struggling, and it is technically easier than ever for anyon
 
 * ['Government as a data model' : what I learned in Estonia](https://gds.blog.gov.uk/2013/10/31/government-as-a-data-model-what-i-learned-in-estonia/)
 
-## New to Civic Tech?
+## Equity, Identity, and Representation
+
+When taking into account historically unequal distributions of power and resources in society in general, it is sad but not surprising that the major voices in tech during this period are overwhelmingly White and male, particularly throughout the Western world. Is there evidence that civic technology looks any different, given that it has such equitable aspirations? What does the landscape look like around the world?
+
+* [Everything Working Against Tech Diversity in Two Headlines](https://web.archive.org/web/20160209132943/http://danilocampos.com/2015/06/everything-working-against-tech-diversity-in-two-headlines/)
+
+# New to Civic Tech?
 
 If *civic tech* is a new term to you, we recommend (but do not neccesarily endorse) the following:
 
