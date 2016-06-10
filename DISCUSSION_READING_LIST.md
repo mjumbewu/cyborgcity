@@ -10,7 +10,9 @@ It is important to consider how we organize power and legitimacy in our physical
 
 * [The smartest cities rely on citizen cunning and unglamorous technology](https://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology)
 * [Loomio: A Short History and Introduction](http://blog.loomio.org/2012/03/20/a-short-history-and-introduction/)
-* [Supporting Participatory Budgeting with Shareabouts](http://blog.openplans.org/2014/05/supporting-participatory-budgeting-with-shareabouts/)
+* [Improving Participatory Democracy with New Technology](http://www.participatorybudgeting.org/blog/pb-buzz-improving-participatory-democracy-with-new-technology/)
+* [Government As a Platform](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#government_as_a_platform)
+* [What government might look like in 2030](https://gds.blog.gov.uk/2016/05/11/what-government-might-look-like-in-2030/)
 
 ## Privacy, Security, and Personal Data
 
