@@ -13,6 +13,7 @@ It is important to consider how we organize power and legitimacy in our physical
 * [Improving Participatory Democracy with New Technology](http://www.participatorybudgeting.org/blog/pb-buzz-improving-participatory-democracy-with-new-technology/)
 * [Government As a Platform](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#government_as_a_platform)
 * [What government might look like in 2030](https://gds.blog.gov.uk/2016/05/11/what-government-might-look-like-in-2030/)
+* [Flash Forward - Swipe Right for Democracy](http://pca.st/tpKw)
 
 ## Privacy, Security, and Personal Data
 
