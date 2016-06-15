@@ -29,6 +29,8 @@ Print journalism is struggling, and it is technically easier than ever for anyon
 * [Why #BringBackOurGirls is actually making a difference for Nigeria](http://www.vox.com/2014/5/9/5699210/bringbackourgirls-kony-2012-hashtag-activism-nigeria)
 * [Engines of Change - What Civic Tech Can Learn from Social Movements](https://medium.com/positive-returns/engines-of-change-what-civic-tech-can-learn-from-social-movements-fcd8925e52a1)
 * [Civic technology needs community engagement in order to work](http://www.knightfoundation.org/blogs/knightblog/2015/4/29/civic-technology-needs-community-engagement-order-work/)
+* [MSNBC Picks Up Hyperlocal News Aggregator EveryBlock](http://techcrunch.com/2009/08/17/msnbc-picks-up-hyperlocal-news-aggregator-everyblock/)
+* [NBC Shutters Hyper-Local News And Information Site EveryBlock After Failing To Find The Right Business Model](http://techcrunch.com/2013/02/07/nbc-shutters-hyper-local-news-and-information-site-everyblock-after-failing-to-find-the-right-business-model/)
 
 ## Infrastructure, Social Services, and Education
 
