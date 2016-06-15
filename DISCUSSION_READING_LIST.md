@@ -23,7 +23,7 @@ This is a pivotal conversation when we talk about how we become cyborgs. It invo
 
 ## Media, Advocacy, and Activism
 
-Print journalism is struggling, and it is technically easier than ever for anyone to tell a story that the world can see. One of the most important aspects of these shifts is who holds the power to tell stories, to determine what stories get told, and to determine how the public receives those stories. Historically speaking, is this shifting media landscape a unique phenomenon? Are there other historical shifts that we can extrapolate from?
+Print journalism is struggling, and it is technically easier than ever for anyone to tell a story that the world can see. One of the most important aspects of these shifts is who holds the power to tell stories, to determine what stories get told, and to determine how the public receives those stories. Historically speaking, is this shifting media landscape a unique phenomenon? Are there other historical shifts that we can extrapolate from? How do changes in the source of, and access to stories change the way that we perceive and interact with cities?
 
 * [#BlackLivesMatter Founders: Please Stop Co-opting Our Hashtag](http://www.theroot.com/articles/culture/2015/03/_blacklivesmatter_founders_please_stop_co_opting_our_hashtag/)
 * [Why #BringBackOurGirls is actually making a difference for Nigeria](http://www.vox.com/2014/5/9/5699210/bringbackourgirls-kony-2012-hashtag-activism-nigeria)
