@@ -20,6 +20,7 @@ It is important to consider how we organize power and legitimacy in our physical
 This is a pivotal conversation when we talk about how we become cyborgs. It involves discussions such as: where we as individuals end and our devices begin, or whether there is significant distinction there at all; who owns the data about us as that data becomes increasingly detailed and comprehensive; what are the valid uses of data about us individually and collectively, especially as it relates to our experience within our environment (e.g., marketing and advertising) and with our governments (e.g., tracking and policing).
 
 [Machine Bias - Risk Assessments in Criminal Sentencing](https://medium.com/positive-returns/engines-of-change-what-civic-tech-can-learn-from-social-movements-fcd8925e52a1)
+[Top 5 Apple WWDC 2016 Recap - MKBHD](https://youtu.be/Hew1t8XZbPs?t=5m42s) (specifically mention of macine learning after ~5:42)
 
 ## Media, Advocacy, and Activism
 
