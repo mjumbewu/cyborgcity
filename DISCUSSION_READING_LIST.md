@@ -45,6 +45,7 @@ When taking into account historically unequal distributions of power and resourc
 * [Everything Working Against Tech Diversity in Two Headlines](https://web.archive.org/web/20160209132943/http://danilocampos.com/2015/06/everything-working-against-tech-diversity-in-two-headlines/)
 * [Juliana Rotich: Meet BRCK, Internet access built for Africa](https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa)
 * [How Black Middle-Class Kids Become Poor Adults](http://www.theatlantic.com/business/archive/2015/01/how-black-middle-class-kids-become-black-lower-class-adults/384613/)
+* [Votes and Facebook's Filter Bubble](https://youtu.be/U9vFwaBzER8)
 
 # New to Civic Tech?
 
