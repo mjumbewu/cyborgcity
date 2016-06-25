@@ -21,6 +21,11 @@ This is a pivotal conversation when we talk about how we become cyborgs. It invo
 
 * [Machine Bias - Risk Assessments in Criminal Sentencing](https://medium.com/positive-returns/engines-of-change-what-civic-tech-can-learn-from-social-movements-fcd8925e52a1)
 * [Top 5 Apple WWDC 2016 Recap - MKBHD](https://youtu.be/Hew1t8XZbPs?t=5m42s) (specifically mention of macine learning after ~5:42)
+* [Using Data to Create Better Public Policy: A Literature Review] (http://www.antheawatsonstrong.com/writing/2015/8/21/using-location-history-data-to-create-better-public-policy)
+* [Investigating the algorithms that govern our lives] (http://www.cjr.org/innovations/investigating_algorithms.php)
+* [Learning From Location] (http://datasmart.ash.harvard.edu/news/article/learning-from-location-806)
+* [Data Mining Reveals the Four Urban Conditions That Create Vibrant City Life] (https://www.technologyreview.com/s/601107/data-mining-reveals-the-four-urban-conditions-that-create-vibrant-city-life/)
+* [Traffic-weary homeowners and Waze are at war, again. Guess who's winning?] (https://www.washingtonpost.com/local/traffic-weary-homeowners-and-waze-are-at-war-again-guess-whos-winning/2016/06/05/c466df46-299d-11e6-b989-4e5479715b54_story.html)
 
 ## Media, Advocacy, and Activism
 
