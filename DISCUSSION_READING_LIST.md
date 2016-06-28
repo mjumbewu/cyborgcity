@@ -51,6 +51,7 @@ When taking into account historically unequal distributions of power and resourc
 * [Juliana Rotich: Meet BRCK, Internet access built for Africa](https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa)
 * [How Black Middle-Class Kids Become Poor Adults](http://www.theatlantic.com/business/archive/2015/01/how-black-middle-class-kids-become-black-lower-class-adults/384613/)
 * [Votes and Facebook's Filter Bubble](https://youtu.be/U9vFwaBzER8)
+* [Artificial Intelligence's White Guy Problem](http://mobile.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html)
 
 # New to Civic Tech?
 
