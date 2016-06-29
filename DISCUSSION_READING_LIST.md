@@ -55,6 +55,7 @@ When taking into account historically unequal distributions of power and resourc
 * [How to Make a Bot That Isn't Racist] (http://motherboard.vice.com/read/how-to-make-a-not-racist-bot)
 * [Instant Vintage post](http://www.innyvinny.com/2010/08/10/oh-slate/) in response to [Slate's *How Black People Use Twitter*](http://www.slate.com/articles/technology/technology/2010/08/how_black_people_use_twitter.html)
 * [How the Government Predicts Race and Ethnicity] (http://graphics.wsj.com/ally-settlement-race-calculator/)
+* [Black Girls Code Is Moving Into Google's New York Offices](http://www.fastcompany.com/3061354/the-future-of-work/black-girls-code-is-moving-into-googles-new-york-offices)
 
 # New to Civic Tech?
 
