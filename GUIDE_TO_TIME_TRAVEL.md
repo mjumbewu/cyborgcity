@@ -5,7 +5,7 @@ These are some lessons that I've picked up from hosting conversations from the f
 
 ## Time Travel Tips (for all travellers)
 
-- **Know who you are.** Choose your identity and stick to it. My recommendation is often to consider who you are (in real life) and and what makes you you *today*, and project that into your future self. Are you a programmer today? Imagine what it will mean to be a programmer in the future and embody that. Do you teach young children? 
+- **Know who you are.** Choose your identity and stick to it. My recommendation is often to consider who you are (in real life) and and what makes you you *today*, and project that into your future self. Are you a programmer today? Imagine what it will mean to be a programmer in the future and embody that. Do you teach young children? Imagine what that will mean in the future? At our dinners, when we do our round of introductions, we include the question "What informs your perspective?".
 - **Be courageous in the events you inject into the timeline.** These events *will* shape the conversation, but that's ok. Part of the fun of improvisational time travel is that you can never be quite sure where you'll end up.
 - **Related to the previous tip, be specific about what happens.** It's more fun that way -- people have more to riff off of. Don't worry, you're not predcting, you're exploring.
 
