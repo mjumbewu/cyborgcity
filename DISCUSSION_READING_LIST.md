@@ -60,7 +60,7 @@ When taking into account historically unequal distributions of power and resourc
 
 # New to Civic Tech?
 
-If *civic tech* is a new term to you, we recommend (but do not neccesarily endorse) the following:
+If *civic tech* is a new term to you, don't worry! You may actually be at an advantage, as civic tech probably will not mean the same to people in the future as it does to civic technologists today. To get a bit of a perspectiive on what those technologists of today believe, we recommend (but do not neccesarily endorse) the following:
 
 * [#CivicTech Primer: What is “civic tech”?](https://medium.com/civic-makers/civictech-primer-what-is-civic-tech-7ea788e766d3)
 * [An Education in Community Technology](http://civichall.org/civicist/an-education-in-community-technology/)
