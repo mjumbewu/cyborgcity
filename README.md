@@ -4,6 +4,12 @@
 
 I think it’s important to regularly attempt to historicize the present -- to imagine the present through the eyes of the future -- to recognize that we’re not living in the end of history, but constantly in the middle of it, constantly in transition.
 
-To that end, I'm sharing the preparation and materials we  used to prepare for my _Cyborg City_ dinners. Your mileage will definitely vary, but we can get farther together, so shoot me an email if you have any questions!
+To that end, I'm sharing the preparation and materials we  used to prepare for my _Cyborg City_ dinners. Herein you'll find:
+
+* Initial announcements and invitations for [email](EMAIL_INVITATIONS.md) and [facebook](FACEBOOK_ANNOUNCEMENTS.md)
+* Partial [reading lists](DISCUSSION_READING_LIST.md) for discussion topics
+* Tips that we [learned](GUIDE_TO_TIME_TRAVEL.md) along the way for helping the discussions go smoothly
+
+Your mileage will definitely vary, but we can get farther together, so shoot me an email if you have any questions!
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
